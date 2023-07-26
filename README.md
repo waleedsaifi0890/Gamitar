@@ -1,7 +1,7 @@
 <h1 align="center"> Gamitar </h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" >
+    <object data="https://www.datocms-assets.com/94322/1679990854-gamitor.svg" width="300" height="300"> </object>
   </a>
 </p>
 
