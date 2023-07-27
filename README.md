@@ -80,9 +80,9 @@ Empower users to personalize their gaming journey by easily managing and customi
 
 If you have any questions or feedback regarding this project, feel free to reach out to me:
 
-- Email: [example@email.com](mailto:example@email.com)
-- Twitter: [@ExampleTwitterHandle](https://twitter.com/ExampleTwitterHandle)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-name/)
+- LinkedIn: [Waleed Saifi](https://www.linkedin.com/in/javascript-web-developer/)
+- Upwork: [Waleed Saifi](https://www.upwork.com/freelancers/waleedsaifi0890)
+
 
 I'd be happy to hear from you and discuss anything related to this project or any potential collaborations!
 
