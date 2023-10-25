@@ -31,6 +31,9 @@ This repo holds the website for gamitar .com. The website is built with:
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-4.5.3-blueviolet)](https://getbootstrap.com/)
 [![Zustand](https://img.shields.io/badge/Zustand-3.4.2-orange)](https://zustand.surge.sh/)
 [![React Charts](https://img.shields.io/badge/React%20Charts-3.x-green)](https://reactchartjs.github.io/react-chartjs-2/)
+[![Redux](https://img.shields.io/badge/Redux-764ABC)](https://redux.js.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-yellow)](https://www.mysql.com/)
+
 
 
 
