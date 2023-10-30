@@ -28,11 +28,13 @@
 This repo holds the website for gamitar .com. The website is built with:
 
 [![React](https://img.shields.io/badge/React-17.x-blue)](https://reactjs.org/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-4.5.3-blueviolet)](https://getbootstrap.com/)
-[![Zustand](https://img.shields.io/badge/Zustand-3.4.2-orange)](https://zustand.surge.sh/)
-[![React Charts](https://img.shields.io/badge/React%20Charts-3.x-green)](https://reactchartjs.github.io/react-chartjs-2/)
-[![Redux](https://img.shields.io/badge/Redux-4.x-764ABC)](https://redux.js.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-8.x-yellow)](https://www.mysql.com/)
+[![Material-UI](https://img.shields.io/badge/Material--UI-4.12.3-blueviolet)](https://material-ui.com/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-latest-important)](https://graphql.org/)
+[![Apollo Client](https://img.shields.io/badge/Apollo%20Client-latest-important)](https://www.apollographql.com/docs/react/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-latest-blue)](https://www.typescriptlang.org/)
+[![Formik](https://img.shields.io/badge/Formik-3.2.9-yellowgreen)](https://formik.org/)
+[![Yup](https://img.shields.io/badge/Yup-0.32.9-yellowgreen)](https://github.com/jquense/yup)
+
 
 
 
